@@ -79,7 +79,7 @@ theme_minimal()
 ```
 
 
-It appears form the graph, that a larger carat diamond tends to be more expensive, but also that a diamond with a better clarity can make up for a lower carat value.
+It appears from the graph, that a larger carat diamond tends to be more expensive, but also that a diamond with a better clarity can make up for a lower carat value.
 
 For example, a lower carat diamond with a clarity value of 'IF' will have a similar price to a higher carat diamond with a clarity of only 'I1'.
 
