@@ -1,12 +1,16 @@
 ---
 title: "Graph Replication"
-subtitle: "Week 4 Activity"
-author: ""
-date: ""
-output: 
+author: ''
+date: ''
+output:
   html_notebook:
     fig_height: 3
     fig_width: 5
+  html_document:
+    df_print: paged
+subtitle: Week 4 Activity
+editor_options:
+  chunk_output_type: inline
 ---
 
 ```{r}
